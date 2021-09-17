@@ -1,0 +1,20 @@
+/*Estilos da página index.html*/
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex ;
+    flex-flow: row ;
+    justify-content:center;
+}
+
+.menu{
+    display: inline;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+/*Estilos da página contato.html*/
